@@ -1,0 +1,38 @@
+.main-Container{
+    display: flex;
+}
+.main-Content{
+    width:100%;
+}
+.sidebar{
+    min-height: 600px;
+}
+.Card{
+    margin:20px 0px 0px 20px;
+    min-width: 500px;
+}
+.title{
+    margin-left: 18px;
+    font-size: 28px;
+}
+.reaction{
+    margin:15px;
+    padding:10px;
+}
+.body{
+    font-size: 18px;
+}
+.tag{
+    width:20%;
+    margin:5px 15px
+}
+.Content{
+    margin: 20px 20px;
+    font-size: 20px;
+}
+.Message{
+    margin:40px;
+}
+.Spinner{
+    margin:40px 0px 20px 450px;
+}
